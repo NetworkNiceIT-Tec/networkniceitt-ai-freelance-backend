@@ -1,1 +1,1 @@
-# networkniceittec-ai-freelance-backend
+# networkniceittec-nnit-ai-freelance-backend
